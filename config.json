@@ -1,0 +1,7 @@
+{
+  "n_qubits": 3,
+  "target_state": "101",
+  "shots": 1024,
+  "use_real_hardware": false,
+  "output_filename": "output.png"
+}
