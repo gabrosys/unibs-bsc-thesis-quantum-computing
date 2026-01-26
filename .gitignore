@@ -16,3 +16,6 @@ ENV/
 *.png
 *.pdf
 *.log
+
+# Exclude specific file
+!it-thesis-qc.pdf
