@@ -19,3 +19,4 @@ ENV/
 
 # Exclude specific file
 !it-thesis-qc.pdf
+!it-slides-qc.pdf
